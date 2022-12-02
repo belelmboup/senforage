@@ -1,0 +1,495 @@
+{
+  "instant" : {
+    "epochSecond" : 1669029143,
+    "nanoOfSecond" : 729000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.ForageApplication",
+  "message" : "Starting ForageApplication using Java 1.8.0_251 on DESKTOP-005JLL9 with PID 27316 (C:\\Users\\belel\\Desktop\\forage-main\\target\\classes started by belel in C:\\Users\\belel\\Desktop\\forage-main)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029141,
+    "nanoOfSecond" : 427000000
+  },
+  "thread" : "background-preinit",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.validator.internal.util.Version",
+  "message" : "HV000001: Hibernate Validator 6.2.5.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.validator.internal.util.logging.Log_$logger",
+  "threadId" : 13,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029145,
+    "nanoOfSecond" : 367000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.ForageApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029146,
+    "nanoOfSecond" : 644000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029146,
+    "nanoOfSecond" : 647000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029166,
+    "nanoOfSecond" : 255000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029167,
+    "nanoOfSecond" : 505000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 961 ms. Found 7 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029186,
+    "nanoOfSecond" : 907000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port(s): 8081 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029187,
+    "nanoOfSecond" : 147000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029187,
+    "nanoOfSecond" : 163000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029187,
+    "nanoOfSecond" : 182000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/9.0.68]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029189,
+    "nanoOfSecond" : 209000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029189,
+    "nanoOfSecond" : 210000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 42559 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029193,
+    "nanoOfSecond" : 690000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029195,
+    "nanoOfSecond" : 284000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.Version",
+  "message" : "HHH000412: Hibernate ORM core version 5.6.12.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029200,
+    "nanoOfSecond" : 483000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.annotations.common.Version",
+  "message" : "HCANN000001: Hibernate Commons Annotations {5.1.2.Final}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.annotations.common.util.impl.Log_$logger",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029203,
+    "nanoOfSecond" : 224000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029205,
+    "nanoOfSecond" : 674000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029206,
+    "nanoOfSecond" : 450000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.dialect.Dialect",
+  "message" : "HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029308,
+    "nanoOfSecond" : 481000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator",
+  "message" : "HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029308,
+    "nanoOfSecond" : 778000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Initialized JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029313,
+    "nanoOfSecond" : 836000000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration",
+  "message" : "spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029315,
+    "nanoOfSecond" : 633000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping",
+  "message" : "Adding welcome page template: index",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029318,
+    "nanoOfSecond" : 939000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer",
+  "message" : "LiveReload server is running on port 35729",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029318,
+    "nanoOfSecond" : 995000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029319,
+    "nanoOfSecond" : 133000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port(s): 8081 (http) with context path ''",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669029319,
+    "nanoOfSecond" : 179000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.ForageApplication",
+  "message" : "Started ForageApplication in 188.942 seconds (JVM running for 203.706)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 12,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669031793,
+    "nanoOfSecond" : 804000000
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring DispatcherServlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669031793,
+    "nanoOfSecond" : 806000000
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Initializing Servlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669031793,
+    "nanoOfSecond" : 843000000
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed initialization in 8 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669033118,
+    "nanoOfSecond" : 407000000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Closing JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 14,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669033118,
+    "nanoOfSecond" : 452000000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 14,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
+{
+  "instant" : {
+    "epochSecond" : 1669033118,
+    "nanoOfSecond" : 478000000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 14,
+  "threadPriority" : 5,
+  "service" : "forage"
+}
